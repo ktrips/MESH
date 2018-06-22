@@ -38,7 +38,7 @@ class Function:
           logging.info('Date dir already exists')
         iname = os.system('raspistill -o ' + fname)
         if command:
-          result = os.system('python3 ' + prog_dir + 'visiontalk.py --detection face --image ' + iname)
+          result = os.system('python3 ' + prog_dir + 'visiontalk.py --detection ' + command + ' --image ' + iname)
           print(result)
 
 class Pushtotalk:
