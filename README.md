@@ -1,5 +1,5 @@
 # Making Robot with Raspberry Pi + MESH + Google APIs!
-Makey robot was exhivited at Maker Faire Tokyo 2018 and detail is described in [Qiita MESH](https://qiita.com/b94e827eb3b9ef6dadf5).
+[Makey robot (Youtube)](https://youtu.be/Ywu2-DPss64) was exhivited at Maker Faire Tokyo 2018 and detail is described in [Qiita MESH](https://qiita.com/b94e827eb3b9ef6dadf5).
 ## Programs
 - Json files - MESH SDK
 - func_mesh.py - Bottle Web app server
